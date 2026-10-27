@@ -184,7 +184,7 @@
     (r.tags || []).forEach(function (t) {
       wrap.appendChild(el("span", { cls: "badge tag", text: t }));
     });
-    if (!r.verified) wrap.appendChild(el("span", { cls: "badge", text: "Unverified" }));
+    /* if (!r.verified) wrap.appendChild(el("span", { cls: "badge", text: "Unverified" })); */
     return wrap;
   }
 
