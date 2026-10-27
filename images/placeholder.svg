@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="No image yet">
+  <rect width="400" height="300" fill="#e9e6dd"/>
+  <path d="M200 40 C 225 70, 232 100, 222 130 L 218 170 C 232 195, 232 225, 200 262 C 168 225, 168 195, 182 170 L 178 130 C 168 100, 175 70, 200 40 Z" fill="#b8b3a5"/>
+  <circle cx="200" cy="150" r="9" fill="#e9e6dd"/>
+  <text x="200" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7d786b">No image yet</text>
+</svg>
