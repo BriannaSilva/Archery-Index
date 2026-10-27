@@ -8,7 +8,7 @@
     "material": "7075 Aluminum",
     "fitting": "ILF & Formula",
     "colours": ["Black", "Red", "Blue", "Silver", "White", "Gold", "Violet", "Green"],
-    "images": ["/images/mk-alpha.webp"],
+    "images": ["../images/mk-alpha.webp"],
     "notes": "Features an interchangeable limb block system that allows the riser to accept both ILF and Formula fitting limbs.",
     "verified": false,
     "bow_type": "Recurve",
